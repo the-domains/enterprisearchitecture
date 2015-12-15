@@ -1,0 +1,28 @@
+name: EnterpriseArchitecture
+favicon: null
+layout_spectrum: 0.7154979663901031
+typography_spectrum: 0.28163255634717643
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4513421368319541
+  lightness: 0.4092631838284433
+  saturation: 0.4603885787073523
+  rhythmicContrast: 0.7873923897277564
+purpose: []
